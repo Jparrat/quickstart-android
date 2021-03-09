@@ -4,7 +4,7 @@ Use the example application for Android devices to understand how interactions b
 
 ## Installation
 
-First download and install the [edgeEngine for Android](https://developer.mimik.com/downloads/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjUwOTkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D) on to the mobile device you will test with
+First download and install the [edgeEngine for Android](https://developer.mimik.com/downloads/) on to the mobile device you will test with
 
 On your computer use the command line to clone the edgeSDK project from GitHub somewhere accessible on your user home directory. This guide starts from the Downloads folder .
 
